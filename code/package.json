@@ -1,0 +1,16 @@
+{
+  "name": "code",
+  "version": "0.1.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/axios": "^0.9.36",
+    "axios": "^1.10.0"
+  }
+}
